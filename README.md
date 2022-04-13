@@ -19,8 +19,8 @@
 
 ----
 ## Contents
-- [Notebook/ Source Code](https://github.com/mohsin-riad/Epileptic-Seizure-Recognition/blob/main/main.ipynb)
-- [Dataset](https://github.com/mohsin-riad/Epileptic-Seizure-Recognition/blob/main/Epileptic%20Seizure%20Recognition.csv)
+- [Notebook/ Source Code](https://github.com/mohsin-riad/Epileptic-Seizure-Recognition/blob/main/Source%20Code/main.ipynb)
+- [Dataset](https://github.com/mohsin-riad/Epileptic-Seizure-Recognition/blob/main/Dataset/Epileptic%20Seizure%20Recognition.csv)
 ## Reference
 
 - [Comparison Machine Learning Algorithms for
